@@ -5,6 +5,8 @@ Important notes
 
 Run bellow commands in Terminal 
 
-sudo modprobe -r rt2800pci
-sudo modprobe rt2800pci nohwcrypt=1
+
+`sudo modprobe -r rt2800pci`
+
+`sudo modprobe rt2800pci nohwcrypt=1`
 
